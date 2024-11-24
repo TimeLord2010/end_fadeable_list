@@ -1,5 +1,5 @@
 name: end_fadeable_list
-description: "A new Flutter package project."
+description: "A widget that fades the end of the list to show there are still items not being seen"
 version: 1.0.0
 homepage:
 repository: https://github.com/TimeLord2010/end_fadeable_list
